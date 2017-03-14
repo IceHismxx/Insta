@@ -44,8 +44,6 @@ GIF created with [LiceCap][1].
 
 Describe any challenges encountered while building the app.
 
-I had trouble getting the image to display using a custom model object, and
-since I couldn't figure it out, I decided to just use PFObject as is.
 
 ## License
 
